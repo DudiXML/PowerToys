@@ -336,7 +336,7 @@
     <value>Dark</value>
   </data>
   <data name="GeneralPage_Radio_Theme_Default.Content" xml:space="preserve">
-    <value>System default</value>
+    <value>System default app mode</value>
   </data>
   <data name="GeneralPage_Radio_Theme_Light.Content" xml:space="preserve">
     <value>Light</value>
